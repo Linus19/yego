@@ -1,0 +1,17 @@
+
+/* Map section */
+.map-container {
+    margin-top: 30px;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+iframe {
+    width: 100%;
+    border: none;
+    height: 300px;
+    border-radius: 12px;
+}
+
+/* Container for tax content */
